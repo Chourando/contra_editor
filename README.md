@@ -8,11 +8,11 @@ These tools only work with specific nes roms, they are inclued in the build.
 
 ## Projects
 
-###contra_editor
+### contra_editor
 Editor for Contra NES
 Level 2 and 4 is not editable
 
-###supercontra_editor
+### supercontra_editor
 Editor for SuperC NES
 Level 2 and 6 is not editable
 It doesn't have an enemy editor.
